@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.nrifintech.mms</groupId>
-	<artifactId>MedicalManagementSystemMMS</artifactId>
+	<artifactId>MMS</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MedicalManagementSystemMMS Maven Webapp</name>
+	<name>MMS Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
@@ -124,6 +124,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>MedicalManagementSystemMMS</finalName>
+		<finalName>MMS</finalName>
 	</build>
 </project>
